@@ -62,8 +62,9 @@ h1, h2 {
     background: linear-gradient(31deg, #47aae6, #9372bf);
     box-shadow: 1.5px 3px 0 rgba(0, 0, 0, 0.13);
     position: absolute;
-    left: 287px;
-    top: -46px;
+    left: 50%;
+    top: 0;
+    transform: translate(-50%, -50%);
 }
 .block-form .ring {
     margin: 6px;
